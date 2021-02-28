@@ -1,0 +1,34 @@
+{
+  "name": "Deeply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "expand-url": "^0.1.3",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "helmet": "^4.4.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "regex": "^0.1.1",
+    "request-country": "^0.1.5",
+    "shortid": "^2.2.16",
+    "tall": "^4.0.0",
+    "valid-url": "^1.0.9"
+  }
+}
