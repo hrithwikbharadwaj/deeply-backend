@@ -1,4 +1,4 @@
-#RichURL Backend
+# RichURL Backend
 
 This is my submission for the Amplify Hashnode Hackathon.
 This is built on [Express](https://expressjs.com/) and [Mongoose](https://mongoosejs.com/).
